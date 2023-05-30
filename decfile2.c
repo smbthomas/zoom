@@ -1,5 +1,5 @@
 //
-//  main.c
+//  decfile2.c
 //  decfile2 - program to decode Mandelbrot binary files
 //  and outputs a JavaScript text array
 //  Created by Stephen Martin Beynon Thomas on 28/05/2023.
