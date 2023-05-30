@@ -2,6 +2,7 @@
 //  main.c
 //  decfile2 - program to decode Mandelbrot binary files
 //  and outputs a JavaScript text array
+//  these data fikes are from 1989 
 //  Created by Stephen Martin Beynon Thomas on 28/05/2023.
 //
 // Useage: ./decfile zoom1.dat > zoom1.js
