@@ -1,7 +1,7 @@
 //
 //  decfile2.c
-//  decfile2 - program to decode Mandelbrot binary files
-//  and outputs a JavaScript text array
+//  decfile2 - program to convert Mandelbrot binary files
+//  into a JavaScript array of numbers
 //  Created by Stephen Martin Beynon Thomas on 28/05/2023.
 //
 // Useage: ./decfile zoom1.dat > zoom1.js
